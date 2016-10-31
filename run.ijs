@@ -1,3 +1,3 @@
 
 require 'format/publish'
-publish jpath '~Demos/publish/master.txt'
+publish '~Demos/publish/master.txt'

@@ -11,7 +11,16 @@ VERSION=: '1.0.1'
 RELEASE=: 'j804 j805'
 
 DEPENDS=: 0 : 0
+afm
+bmp
+colortab
 format/publish
+general/misc/font
+gl2
+numeric
+plot
+regex
+trig
 )
 
 FILES=: 0 : 0
